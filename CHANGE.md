@@ -5,7 +5,7 @@ Change Log: `mssql-xml2json`
 
 - Adding support to convert attributes to JSON
 
-## [Version 2.0.0](https://github.com/caio-brendo/yii2-dynamicgridform/compare/v1.0.0...v2.0.0)
+## [Version 2.0.0](https://github.com/caio-brendo/mssql-xml2json/compare/v1.0.0...v2.0.0)
 
 **Date:** 19-June-2021
 
